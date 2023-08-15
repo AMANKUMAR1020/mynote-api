@@ -1,5 +1,5 @@
 const allowedOrigins = [
-    'https://mynote-p1jo.onrender.com/'
+    'https://mynote-uvp5.onrender.com'
 ]
 
 module.exports = allowedOrigins
